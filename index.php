@@ -41,6 +41,6 @@
                 <li>[ <a href="" ng-click="settings.addContact()">add</a> ]</li>
             </ul>
         </div>
-
+    Saya Mau Ah
     </body>
 </html>
